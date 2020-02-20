@@ -1,0 +1,10 @@
+C:\Users\2457\source\repos\XMLRefExtract\obj\Debug\netcoreapp3.1\XMLRefExtract.AssemblyInfoInputs.cache
+C:\Users\2457\source\repos\XMLRefExtract\obj\Debug\netcoreapp3.1\XMLRefExtract.AssemblyInfo.cs
+C:\Users\2457\source\repos\XMLRefExtract\bin\Debug\netcoreapp3.1\XMLRefExtract.exe
+C:\Users\2457\source\repos\XMLRefExtract\bin\Debug\netcoreapp3.1\XMLRefExtract.deps.json
+C:\Users\2457\source\repos\XMLRefExtract\bin\Debug\netcoreapp3.1\XMLRefExtract.runtimeconfig.json
+C:\Users\2457\source\repos\XMLRefExtract\bin\Debug\netcoreapp3.1\XMLRefExtract.runtimeconfig.dev.json
+C:\Users\2457\source\repos\XMLRefExtract\bin\Debug\netcoreapp3.1\XMLRefExtract.dll
+C:\Users\2457\source\repos\XMLRefExtract\bin\Debug\netcoreapp3.1\XMLRefExtract.pdb
+C:\Users\2457\source\repos\XMLRefExtract\obj\Debug\netcoreapp3.1\XMLRefExtract.dll
+C:\Users\2457\source\repos\XMLRefExtract\obj\Debug\netcoreapp3.1\XMLRefExtract.pdb
